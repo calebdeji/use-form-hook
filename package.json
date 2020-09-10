@@ -2,7 +2,7 @@
     "name": "use-form-hook",
     "version": "1.0.0",
     "description": "A simple hook to help you handle your form state in react",
-    "author": "ovieokeh",
+    "author": "calebdeji",
     "license": "Apache-2.0",
     "repository": "https://github.com/calebdeji/use-form-hook",
     "main": "dist/index.js",
